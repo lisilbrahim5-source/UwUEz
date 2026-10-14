@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sCrates:jar">
+    <output-path>E:/Pc/Desktop</output-path>
+    <root id="archive" name="sCrates.jar">
+      <element id="module-output" name="sCrates" />
+    </root>
+  </artifact>
+</component>
